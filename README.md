@@ -72,7 +72,7 @@ wazuh-enrichment/
 ## 🚀 Installation
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Mahesh-830/wazuh-siem-alert-enrichment.git
 cd wazuh-enrichment
 ```
 

@@ -219,3 +219,7 @@ After completing this project, the following outcomes are achieved:
 This project demonstrates how Wazuh SIEM and Python can be combined to improve security alert analysis through automation. By enriching alerts with contextual information, calculating risk scores, mapping MITRE ATT&CK techniques, extracting File Integrity Monitoring data, and generating incident reports, the solution provides a structured workflow suitable for educational SOC environments and cybersecurity portfolio demonstrations.
 
 The following documents describe the architecture, implementation, installation, testing methodology, troubleshooting procedures, and future enhancements in greater technical detail.
+
+## GitHub Repository
+
+Repository: https://github.com/Mahesh-830/wazuh-siem-alert-enrichment
