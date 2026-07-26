@@ -1,0 +1,22 @@
+{
+    "enriched_time": "2026-07-26T10:13:14.909061+00:00",
+    "timestamp": "2026-07-26T07:49:19.121+0000",
+    "agent": "windows-host",
+    "rule_id": "597",
+    "description": "Registry Key Entry Deleted.",
+    "level": 5,
+    "risk_score": "Low",
+    "mitre_id": "T1070.004,T1485,T1112",
+    "mitre_tactic": "Defense Evasion,Impact",
+    "mitre_technique": "File Deletion,Data Destruction,Modify Registry",
+    "process_image": null,
+    "command_line": null,
+    "parent_process": null,
+    "user": null,
+    "file": "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Services\\CloudBackupRestoreSvc_a33aa\\Security",
+    "fim_event": "deleted",
+    "changed_attributes": null,
+    "md5_after": null,
+    "sha1_after": null,
+    "sha256_after": null
+  }
