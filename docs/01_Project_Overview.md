@@ -222,4 +222,4 @@ The following documents describe the architecture, implementation, installation,
 
 ## GitHub Repository
 
-Repository: https://github.com/Mahesh-830/wazuh-siem-alert-enrichment
+Repository: https://github.com/Mahesh-830/wazuh-siem-incident-reporting
