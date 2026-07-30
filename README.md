@@ -1,4 +1,6 @@
-# 🛡️ Wazuh SIEM Alert Enrichment & Incident Reporting
+# 🛡️ NEXUS - Automated SIEM Alert Enrichment & Incident Reporting using Wazuh and Python
+
+NEXUS is a Security Information and Event Management (SIEM) project built using Wazuh and Python that automates security alert enrichment, risk scoring, MITRE ATT&CK mapping, File Integrity Monitoring (FIM) analysis, and structured incident reporting for Security Operations Center (SOC) workflows.
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-green)
